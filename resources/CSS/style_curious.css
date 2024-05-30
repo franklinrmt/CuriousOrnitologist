@@ -1,7 +1,7 @@
 :root {
-  --main-bird: url('./hummingbird.jpg');
-  --night-bird: url('./Portrait_of_owls.jpg');
-  --main-white: #f8f8f8;
+  --main-bird: url('../IMAGES/OIP.jpg');
+  --night-bird: url('../IMAGES/Portrait_of_owls.jpg');
+  --main-white: #faf3f3;
   --main-gray-1: #dbe1e8;
   --secondary-gray: #b2becd;
   --secondary-gray-2: #6c7983;
